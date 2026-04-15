@@ -1,0 +1,72 @@
+  /* Reset default spacing */
+       * {
+           margin: 0;
+           padding:0;
+           box-sizing: border-box;
+       }
+
+       body{
+          font-family: Arial, Helvetica, sans-serif;
+       
+
+       }
+
+       input {
+        width: 100%;
+        padding: 10px;
+        font-size: 14px;
+       }
+
+       #form-container {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #a3a0e3;
+       }
+
+
+       #form-box {
+         width: 500px;
+         display:flex;
+         flex-direction: column;
+         background-color:aliceblue;
+         padding: 30px;
+         border-radius: 10px;  
+         gap: 12px;
+       }
+
+       #form-box h1 {
+        text-align: center;
+        margin-bottom: 15px;
+       }    
+
+       label {
+        font-size: 14px;
+        font-weight: bold;
+       }
+
+       #form-box div {
+        font-size: 12px;
+       }
+       
+       
+       button {
+            font-size: 12px;
+            color: azure;
+            border-radius: 5px;
+            cursor: pointer;
+            background-color: blue;
+            padding: 10px;
+            border: none;
+       }
+
+       button:hover {
+        background-color: darkblue;
+       }
+
+       #formSuccessMsg {
+        text-align: center;
+        font-size: 14px;
+        font-weight: bold;
+       }
