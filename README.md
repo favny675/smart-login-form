@@ -26,7 +26,8 @@ A simple smart login form with real-time validation built using HTML, CSS, and J
 
 ## 📷 Project Preview
 
-(Add screenshot here later)
+(<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ad312b9-d424-4fde-8abb-f5daf819e635" />
+)
 
 ## 👩‍💻 Author
 
